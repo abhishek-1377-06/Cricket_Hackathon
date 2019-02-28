@@ -124,7 +124,27 @@ The best one was picked based on rmse/accuracy and predictions were made for the
 	australia_4s_6s_prediction.R
 	series_win_predictions.R
 	
-	
+******************************************************************************************************************************************************
+Predictions
+******************************************************************************************************************************************************
+Match results 
+Match 1 - India
+Match 2 - India
+Match 3 - India
+Match 4 - India
+Match 5 - India	
+
+Most runs --
+S Dhawan followed by Dhoni, Kohli and Maxwell
+
+Most wickets --
+JA Richardson followed by Zampa, Bhumbrah, Shami and Yadav
+
+Most 6s --
+Rohit Sharma and Maxwell are tied
+
+Most 4s --
+S Dhawan and Maxwell are tied
 	
 	
 	
