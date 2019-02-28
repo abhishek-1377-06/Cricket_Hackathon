@@ -16,7 +16,7 @@ the type of teams involved, whether 'club', or 'international'. The third is
 the type of match, either Test, ODI, ODM, T20, IT20, MDM, or a club
 competition code (such as IPL). The 4th field is the gender of the players
 involved in the match. The 5th field is the id of the data file, and the
-remainder of the line shows the teams involved in the match.
+remainder of the line shows the teams involved in the match. 
 
 2005-02-17 - international - T20 - male - 211048 vs New Zealand
 2005-06-13 - international - T20 - male - 211028 vs England
