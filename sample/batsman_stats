@@ -1,0 +1,63 @@
+"","teamName","opposition","player_name","match_format","city","venue","date","runs","4s","6s","balls_faced","strike_rate","batting_position"
+"1","England","Australia","A Flintoff","T20","Southampton","The Rose Bowl","2005-06-13",6,0,0,5,120,1
+"2","England","Australia","AJ Strauss","T20","Southampton","The Rose Bowl","2005-06-13",18,1,0,16,112.5,2
+"3","England","Australia","GO Jones","T20","Southampton","The Rose Bowl","2005-06-13",19,4,0,14,135.71,3
+"4","England","Australia","KP Pietersen","T20","Southampton","The Rose Bowl","2005-06-13",34,3,1,18,188.89,4
+"5","England","Australia","ME Trescothick","T20","Southampton","The Rose Bowl","2005-06-13",41,5,0,37,110.81,5
+"6","England","Australia","MP Vaughan","T20","Southampton","The Rose Bowl","2005-06-13",0,0,0,1,0,6
+"7","England","Australia","PD Collingwood","T20","Southampton","The Rose Bowl","2005-06-13",46,5,2,26,176.92,7
+"8","England","Australia","VS Solanki","T20","Southampton","The Rose Bowl","2005-06-13",9,1,0,5,180,8
+"9","Australia","England","A Symonds","T20","Southampton","The Rose Bowl","2005-06-13",0,0,0,2,0,1
+"10","Australia","England","AC Gilchrist","T20","Southampton","The Rose Bowl","2005-06-13",15,3,0,14,107.14,2
+"11","Australia","England","B Lee","T20","Southampton","The Rose Bowl","2005-06-13",15,1,0,20,75,3
+"12","Australia","England","DR Martyn","T20","Southampton","The Rose Bowl","2005-06-13",4,1,0,4,100,4
+"13","Australia","England","GD McGrath","T20","Southampton","The Rose Bowl","2005-06-13",5,0,0,12,41.67,5
+"14","Australia","England","JN Gillespie","T20","Southampton","The Rose Bowl","2005-06-13",24,4,0,18,133.33,6
+"15","Australia","England","MEK Hussey","T20","Southampton","The Rose Bowl","2005-06-13",1,0,0,6,16.67,7
+"16","Australia","England","MJ Clarke","T20","Southampton","The Rose Bowl","2005-06-13",0,0,0,1,0,8
+"17","Australia","England","ML Hayden","T20","Southampton","The Rose Bowl","2005-06-13",6,1,0,4,150,9
+"18","Australia","England","MS Kasprowicz","T20","Southampton","The Rose Bowl","2005-06-13",3,0,0,5,60,10
+"19","Australia","England","RT Ponting","T20","Southampton","The Rose Bowl","2005-06-13",0,0,0,3,0,11
+"20","Pakistan","England","Abdul Razzaq","ODI","Birmingham","Edgbaston","2006-09-10",5,0,0,25,20,1
+"21","Pakistan","England","Iftikhar Anjum","ODI","Birmingham","Edgbaston","2006-09-10",14,1,0,38,36.84,2
+"22","Pakistan","England","Imran Farhat","ODI","Birmingham","Edgbaston","2006-09-10",15,0,0,40,37.5,3
+"23","Pakistan","England","Inzamam-ul-Haq","ODI","Birmingham","Edgbaston","2006-09-10",2,0,0,6,33.33,4
+"24","Pakistan","England","Kamran Akmal","ODI","Birmingham","Edgbaston","2006-09-10",4,0,0,7,57.14,5
+"25","Pakistan","England","Mohammad Asif","ODI","Birmingham","Edgbaston","2006-09-10",4,0,0,13,30.77,6
+"26","Pakistan","England","Mohammad Hafeez","ODI","Birmingham","Edgbaston","2006-09-10",18,3,0,43,41.86,7
+"27","Pakistan","England","Mohammad Yousuf","ODI","Birmingham","Edgbaston","2006-09-10",11,0,1,17,64.71,8
+"28","Pakistan","England","Naved-ul-Hasan","ODI","Birmingham","Edgbaston","2006-09-10",8,0,0,25,32,9
+"29","Pakistan","England","Shahid Afridi","ODI","Birmingham","Edgbaston","2006-09-10",2,0,0,7,28.57,10
+"30","Pakistan","England","Younis Khan","ODI","Birmingham","Edgbaston","2006-09-10",47,4,0,80,58.75,11
+"31","England","Pakistan","AJ Strauss","ODI","Birmingham","Edgbaston","2006-09-10",35,8,0,41,85.37,1
+"32","England","Pakistan","CMW Read","ODI","Birmingham","Edgbaston","2006-09-10",4,1,0,6,66.67,2
+"33","England","Pakistan","EC Joyce","ODI","Birmingham","Edgbaston","2006-09-10",8,2,0,6,133.33,3
+"34","England","Pakistan","IR Bell","ODI","Birmingham","Edgbaston","2006-09-10",2,0,0,10,20,4
+"35","England","Pakistan","JWM Dalrymple","ODI","Birmingham","Edgbaston","2006-09-10",0,0,0,3,0,5
+"36","England","Pakistan","KP Pietersen","ODI","Birmingham","Edgbaston","2006-09-10",34,6,0,33,103.03,6
+"37","England","Pakistan","MH Yardy","ODI","Birmingham","Edgbaston","2006-09-10",12,0,0,31,38.71,7
+"38","England","Pakistan","PD Collingwood","ODI","Birmingham","Edgbaston","2006-09-10",22,3,0,33,66.67,8
+"39","England","Pakistan","SI Mahmood","ODI","Birmingham","Edgbaston","2006-09-10",22,4,0,25,88,9
+"40","Sri Lanka","Pakistan","DPMD Jayawardene","Test","Karachi","National Stadium","2009-02-21",240,32,0,424,56.6,1
+"41","Sri Lanka","Pakistan","HAPW Jayawardene","Test","Karachi","National Stadium","2009-02-21",18,2,0,22,81.82,2
+"42","Sri Lanka","Pakistan","KC Sangakkara","Test","Karachi","National Stadium","2009-02-21",70,9,0,104,67.31,3
+"43","Sri Lanka","Pakistan","NT Paranavitana","Test","Karachi","National Stadium","2009-02-21",0,0,0,1,0,4
+"44","Sri Lanka","Pakistan","SM Warnapura","Test","Karachi","National Stadium","2009-02-21",59,9,0,48,122.92,5
+"45","Sri Lanka","Pakistan","TM Dilshan","Test","Karachi","National Stadium","2009-02-21",0,0,0,3,0,6
+"46","Sri Lanka","Pakistan","TT Samaraweera","Test","Karachi","National Stadium","2009-02-21",231,31,0,318,72.64,7
+"47","Sri Lanka","Pakistan","WPUJC Vaas","Test","Karachi","National Stadium","2009-02-21",12,1,0,22,54.55,8
+"48","Pakistan","Sri Lanka","Faisal Iqbal","Test","Karachi","National Stadium","2009-02-21",57,6,0,141,40.43,1
+"49","Pakistan","Sri Lanka","Kamran Akmal","Test","Karachi","National Stadium","2009-02-21",158,8,5,184,85.87,2
+"50","Pakistan","Sri Lanka","Khurram Manzoor","Test","Karachi","National Stadium","2009-02-21",27,3,0,98,27.55,3
+"51","Pakistan","Sri Lanka","Misbah-ul-Haq","Test","Karachi","National Stadium","2009-02-21",42,3,1,153,27.45,4
+"52","Pakistan","Sri Lanka","Salman Butt","Test","Karachi","National Stadium","2009-02-21",23,3,0,70,32.86,5
+"53","Pakistan","Sri Lanka","Shoaib Malik","Test","Karachi","National Stadium","2009-02-21",56,7,0,168,33.33,6
+"54","Pakistan","Sri Lanka","Yasir Arafat","Test","Karachi","National Stadium","2009-02-21",50,2,2,129,38.76,7
+"55","Pakistan","Sri Lanka","Younis Khan","Test","Karachi","National Stadium","2009-02-21",313,27,4,568,55.11,8
+"56","Sri Lanka","Pakistan","DPMD Jayawardene","Test","Karachi","National Stadium","2009-02-21",22,2,0,38,57.89,1
+"57","Sri Lanka","Pakistan","HAPW Jayawardene","Test","Karachi","National Stadium","2009-02-21",7,1,0,29,24.14,2
+"58","Sri Lanka","Pakistan","KC Sangakkara","Test","Karachi","National Stadium","2009-02-21",65,10,0,66,98.48,3
+"59","Sri Lanka","Pakistan","NT Paranavitana","Test","Karachi","National Stadium","2009-02-21",9,2,0,19,47.37,4
+"60","Sri Lanka","Pakistan","SM Warnapura","Test","Karachi","National Stadium","2009-02-21",2,0,0,5,40,5
+"61","Sri Lanka","Pakistan","TM Dilshan","Test","Karachi","National Stadium","2009-02-21",8,1,0,6,133.33,6
+"62","Sri Lanka","Pakistan","TT Samaraweera","Test","Karachi","National Stadium","2009-02-21",24,4,0,30,80,7
