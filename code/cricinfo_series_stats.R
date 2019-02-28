@@ -3,6 +3,7 @@ library(RCurl)
 library(XML)
 library(rvest)
 library(purrr)
+library(xml2)
 
 cricinfo_url <- "http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;page=1;team=2;template=results;type=team;view=series;wrappertype=print"
 
